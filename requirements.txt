@@ -22,3 +22,4 @@ toolz==0.11.1
 webencodings==0.5.1
 wincertstore==0.2
 zope.interface==5.4.0
+msoffcrypto-tool==4.12.0
