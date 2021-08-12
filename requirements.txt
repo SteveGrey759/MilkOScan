@@ -17,7 +17,6 @@ pywin32==228
 pywinpty==0.5.7
 scipy==1.7.1
 seaborn==0.11.1
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 statsmodels==0.12.2
 terminado==0.9.4
 toolz==0.11.1
